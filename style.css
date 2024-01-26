@@ -1,0 +1,71 @@
+body {
+    color: black;
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
+
+.logo {
+    max-width: 100vw;
+    max-height: 25vh;
+    margin: auto;
+    display: block;
+}
+
+.header {
+    color: orange;
+    font-family: cursive;
+    text-align: center;
+    font-size: x-large;
+    margin: auto;
+}
+
+.subheader {
+    color: gray;
+    text-align: center;
+    padding-bottom: 2vh;
+    font-size: x-large;
+    margin: auto;
+}
+
+.image-col {
+    padding: 2vw;
+}
+
+.info-col {
+    padding: 2vw;
+}
+
+.menu-image {
+    width: 6em;
+    height: 6em;
+    border-radius: 1em;
+}
+
+.outer-box {
+    margin: 0.5vw;
+}
+
+.item-name {
+    font-weight: bold;
+    font-size: large;
+    margin: auto;
+}
+
+.item-desc {
+    margin: auto;
+    color: gray;
+}
+
+.pricing-items {
+}
+
+.add-button {
+    width: 4em;
+    border-radius: 3vw;
+    background-color:bisque;
+    color: black;
+    box-shadow: 2px 2px 4px;
+    font-size: small;
+    display: inline-block;
+}
